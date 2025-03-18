@@ -8,7 +8,7 @@ Key Characteristics:
 5.	Governance: Establishes policies for managing resources and mitigating risks.
 6.	Cost Management: Provides tools for monitoring and optimizing cloud spending.
 
-7.	##Q2. Comparison of Landing Zones
+7.	## Q2. Comparison of Landing Zones
 
 1. Platform Landing Zones:
 
