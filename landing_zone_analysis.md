@@ -34,14 +34,20 @@ Usage Example: Suitable for deploying a new web application with specific compli
 •	Description: A single IT department manages all resources and services across the organization.
 •	Pros: Streamlined governance, cost-efficiency, and uniform security policies.
 •	Cons: Slower response times and less flexibility for individual units.
-4. Enterprise Operating Model:
+<img width="339" alt="image" src="https://github.com/user-attachments/assets/649c643c-b8d7-4009-99bd-178b8ef6b0d9" />
+
+5. Enterprise Operating Model:
 •	Description: A hybrid of centralized and decentralized approaches, balancing control and autonomy.
 •	Pros: Central governance with some local flexibility; better alignment with business goals.
 •	Cons: Complexity in management and potential for conflict between central and local priorities.
-5. Distributed Operating Model:
+<img width="319" alt="image" src="https://github.com/user-attachments/assets/0f8eb65e-3c71-486d-9807-14171245bc0b" />
+
+7. Distributed Operating Model:
 •	Description: Resources are distributed across multiple locations, often combining elements of centralized control with local management.
 •	Pros: High availability and resilience; local responsiveness to market needs.
 •	Cons: Can be challenging to manage consistency and security across distributed environments.
+<img width="308" alt="image" src="https://github.com/user-attachments/assets/9a41d123-3a02-4520-8d8c-5de18d173340" />
+
 Best Model for Data Center Migration
 For a company migrating an entire data center, the Enterprise Operating Model is the best choice. This model provides a balanced approach that allows for centralized governance, ensuring consistent security and compliance, while still giving individual business units the flexibility to adapt to their specific needs. This balance is crucial during a significant transition like a data center migration, as it minimizes risks and maximizes alignment with overall business objectives.
 
