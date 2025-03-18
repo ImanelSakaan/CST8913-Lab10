@@ -28,15 +28,17 @@ Usage Example: Suitable for deploying a new web application with specific compli
 •	Description: Individual business units manage their own IT resources and cloud services.
 •	Pros: Flexibility and autonomy for teams; quicker decision-making.
 •	Cons: Potential for inconsistency in governance and increased costs due to duplication of resources.
-2. Centralized Operating Model:
+<img width="313" alt="image" src="https://github.com/user-attachments/assets/b19081d2-b379-4f3b-a480-ba328406c7a2" />
+
+3. Centralized Operating Model:
 •	Description: A single IT department manages all resources and services across the organization.
 •	Pros: Streamlined governance, cost-efficiency, and uniform security policies.
 •	Cons: Slower response times and less flexibility for individual units.
-3. Enterprise Operating Model:
+4. Enterprise Operating Model:
 •	Description: A hybrid of centralized and decentralized approaches, balancing control and autonomy.
 •	Pros: Central governance with some local flexibility; better alignment with business goals.
 •	Cons: Complexity in management and potential for conflict between central and local priorities.
-4. Distributed Operating Model:
+5. Distributed Operating Model:
 •	Description: Resources are distributed across multiple locations, often combining elements of centralized control with local management.
 •	Pros: High availability and resilience; local responsiveness to market needs.
 •	Cons: Can be challenging to manage consistency and security across distributed environments.
